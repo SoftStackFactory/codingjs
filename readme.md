@@ -1,5 +1,5 @@
 # CodingJS
-
+[![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod-redirect.herokuapp.com)
 A static website to do CodingBat problems in JavaScript. Use it at [the-winter.github.io/codingjs]( https://the-winter.github.io/codingjs).
 
 ## Screenshots
