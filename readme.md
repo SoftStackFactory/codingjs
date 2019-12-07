@@ -5,7 +5,7 @@ This repo is to provide simple challenges for students. Usefull to start the cla
 
 ## Usage
 
-Go to [](https://g)
+Go to [Challenges](https://softstackfactory.github.io/lightning-challenges-js) to start.
 
 
 [![Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod-redirect.herokuapp.com)
